@@ -368,7 +368,7 @@ h3 {
     flex-direction: column;
     align-items: center;
     gap: 2rem;
-    width: 70%;
+    width: 100%;
     max-width: 90rem;
     margin: 0 auto;
 
@@ -670,4 +670,9 @@ h3 {
 
     }
 
+}
+@media only screen and (max-width:720px) and (min-width:360px) {
+    .container4 {
+        height: 3850px;
+    }
 }
