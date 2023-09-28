@@ -485,7 +485,7 @@ h3 {
 
 
 
-@media only screen and (max-width: 1403px) {
+@media only screen and (max-width: 1403px) and (min-width:300px) {
     .contenu-apropos {
         grid-template-columns: 1fr;
         grid-gap: 8rem;
@@ -663,6 +663,11 @@ h3 {
 
     #button3 {
         margin-top: 0rem;
+    }
+
+        #nomFoot {
+        font-size: 2rem;
+
     }
 
 }
