@@ -1,0 +1,668 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+.navigation nav {
+    font-size: large;
+    flex-direction: row;
+    gap: 20px;
+    width: 70%;
+    margin: 0 auto;
+
+
+}
+
+.container5 div {
+    width: 80%;
+    max-width: 90rem;
+}
+
+
+#hangMan {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+
+
+#acme {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#mesCours {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+#astro {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.propos h2 {
+    padding: 50px;
+    font-size: 2rem;
+    text-decoration: underline black;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.navbar {
+    position: fixed;
+}
+
+#button {
+    margin-top: 9.5rem;
+}
+
+#button2 {
+    margin-top: 12.5rem;
+}
+
+.navigation {
+    background-color: #f8f9fa;
+    width: 100%;
+    color: white;
+    margin: 0 auto;
+
+
+}
+
+#linkedin {
+    border-radius: 50%;
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+img {
+    width: 35px;
+    height: 35px;
+}
+
+.element {
+    padding-top: 10px;
+
+}
+
+#container {
+    background-color: white;
+    margin: 0 auto;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to right, rgba(245, 245, 245, .8), rgba(245, 245, 245, .8)), url(large.jpg);
+
+
+}
+
+
+
+.titreProjetcs {
+    margin-top: 1rem;
+    font-family: 'Croissant One', cursive;
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+
+#button3 {
+    margin-top: 8rem;
+}
+
+.contact:hover {
+    cursor: pointer;
+    color: red;
+    transition: 0.5ms;
+
+}
+
+.container5 {
+    display: flex;
+    align-items: center;
+}
+
+#nomFoot {
+    font-size: 3rem;
+    font-family: 'Croissant One', cursive;
+    ;
+
+}
+
+#porteFoot {
+    font-weight: 90;
+    border-bottom: solid lightgray;
+}
+
+.containerFoot {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+
+.email h2 {
+    font-family: "proxima nova bold", "Helvetica Neue", Helvetica, Arial, Sans-serif;
+    font-size: 2em;
+}
+
+label {
+    display: block;
+}
+
+input {
+    margin: 0.5rem 0;
+
+}
+
+.btn {
+    float: right;
+}
+
+.section {
+
+    width: 60%;
+    max-width: 70rem;
+    margin: 0 auto;
+    margin-bottom: 10rem;
+    padding: 4rem;
+    background-color: #F4F6F6;
+
+}
+
+#presentation {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+
+#logo img {
+    width: 100px;
+    height: 100px;
+
+
+}
+
+#logo {
+    display: flex;
+    align-items: flex-start;
+    flex: 1;
+}
+
+
+.nom {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #111;
+    font-weight: 800;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+    transition: ease-in 1s;
+}
+
+.nom:hover {
+    margin-bottom: 60px;
+}
+
+.text-primaire {
+    display: flex;
+    justify-content: center;
+    font-size: 1.4rem;
+    line-height: 1.6;
+    padding-top: 30px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+
+}
+
+
+.container2 {
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #f8f9fa;
+    height: 700px;
+
+}
+
+
+
+strong {
+    color: #666;
+
+}
+
+
+.contenu-apropos {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10rem;
+    width: 70%;
+    max-width: 90rem;
+    margin: 0 auto;
+
+
+
+}
+
+
+.contenu-apropos-principal-details-para {
+    font-size: 1.2rem;
+    color: #666;
+    min-width: 20em;
+    line-height: 1.7;
+
+}
+
+.skills {
+    padding: 0.9rem 1.5rem;
+    margin-bottom: 0.4rem;
+    margin-right: 0.4rem;
+    font-size: 1.2rem;
+    background: rgba(153, 153, 153, .2);
+    border-radius: 5px;
+    font-weight: 600;
+    color: #666;
+    text-align: center;
+
+}
+
+.contenu-apropos-principal {
+    padding-top: 12px;
+
+
+}
+
+
+
+
+h3 {
+    display: block;
+    font-size: 1.8em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    padding: 35px 5px;
+}
+
+
+
+.propos {
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #111;
+
+}
+
+.competences-div {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: row;
+
+
+}
+
+
+.container3 {
+    height: 1000px;
+    background: linear-gradient(to right, rgba(245, 245, 245, .8), rgba(245, 245, 245, .8)), url(large.jpg);
+}
+
+.label {
+    display: block;
+}
+
+.contact-form-container div {
+    padding: 0.3rem;
+}
+
+.contact-form-container div label {
+    font-family: 'Roboto Mono', monospace;
+    font-size: 1.1em;
+    font-weight: lighter;
+}
+
+
+
+.contact-form-field {
+    flex-wrap: wrap;
+}
+
+.container4 {
+    height: 2500px;
+    background-color: #F4F6F6;
+
+}
+
+.contenu-project {
+
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+    width: 70%;
+    max-width: 90rem;
+    margin: 0 auto;
+
+
+}
+
+
+
+
+.contenu-project div {
+    width: 100%;
+    height: 100%;
+    /* background-color: #F4F6F6; */
+    padding: 2rem;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+
+}
+
+
+.titreProjetcs {
+    margin-bottom: 2rem;
+    display: block;
+}
+
+.contenu-project div img {
+    width: 20rem;
+    height: 300px;
+
+}
+
+#contact {
+    margin-bottom: 5rem;
+}
+
+
+.container4 h2 {
+    padding: 50px;
+    font-size: 2rem;
+    text-decoration: underline black;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.container3 h2 {
+    padding-top: 50px;
+    font-size: 2.5rem;
+    text-decoration: underline black;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+#code {
+    border: 1px solid black;
+    padding: 0.5rem;
+
+}
+
+
+#penduDescrip {
+    display: flex;
+    flex-direction: column;
+    gap: 1.8rem;
+    align-items: flex-start;
+}
+
+#penduDescrip span {
+    align-items: flex-start;
+    text-align: left;
+
+}
+
+.container3 h2 {
+    font-size: 2rem;
+    text-decoration: underline black;
+    letter-spacing: 3px;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+#envoiE {
+    margin-top: 10rem;
+    font-size: 1.5rem;
+    font-family: 'Roboto Mono', monospace;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    letter-spacing: 3px;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #111;
+}
+
+.section p {
+    text-align: center;
+}
+
+.container5 {
+    background-color: #111;
+    height: 400px;
+}
+
+.container5 div {
+    padding-top: 5rem;
+    color: white;
+    width: 70%;
+    order: 1;
+    max-width: 90rem;
+}
+
+
+
+@media only screen and (max-width: 1403px) {
+    .contenu-apropos {
+        grid-template-columns: 1fr;
+        grid-gap: 8rem;
+
+    }
+
+    .nom {
+        font-size: 2rem;
+
+    }
+
+
+
+
+    .contenu-apropos {
+        display: block;
+        width: 100%;
+    }
+
+    .contenu-apropos-principal-details-para {
+        font-size: 1.2rem;
+        color: #666;
+        line-height: 1.5;
+    }
+
+    .container2 {
+
+        height: 900px;
+
+    }
+
+
+    #envoiE {
+        padding-top: 12rem;
+
+
+    }
+
+    .text-primaire {
+
+        font-size: 1.1rem;
+
+    }
+
+    .propos h2 {
+
+        font-size: 1.6rem;
+
+    }
+
+    p {
+        font-size: 0.8rem;
+    }
+
+    .contenu-apropos-principal h3 {
+
+        font-size: 1.4rem;
+    }
+
+    .contenu-apropos-principal-details-para {
+        font-size: 1.1rem;
+
+    }
+
+    .contenu-apropos-competences h3 {
+        font-size: 1.4rem;
+
+    }
+
+    .skills {
+        font-size: 1rem;
+    }
+
+    #envoiE {
+        font-size: 1.4rem;
+    }
+
+    .formulaire p {
+        font-size: 1.1rem;
+    }
+
+    .section {
+
+        width: 90%;
+
+    }
+
+
+    .container4 {
+        height: 4100px;
+        column-gap: 2rem;
+    }
+
+    .contenu-project {
+        height: 1000px;
+        width: 70%;
+        margin: 0 auto;
+    }
+
+    .navigation nav {
+
+        gap: 20px;
+        width: 100%;
+        margin: 0 auto;
+
+
+    }
+
+    .contenu-project {
+
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        height: auto;
+        align-items: center;
+        flex-wrap: wrap;
+
+    }
+
+    .contenu-project div {
+        width: 100%;
+        height: 100%;
+        background-color: #f8f9fa;
+        padding: 2rem;
+
+    }
+
+    .contenu-project div img {
+        width: 20rem;
+
+
+    }
+
+    #penduDescrip {
+        display: none;
+    }
+
+    #hangMan {
+        display: flex;
+
+    }
+
+
+
+    #acme {
+        display: flex;
+
+    }
+
+    #mesCours {
+        display: flex;
+
+    }
+
+    #astro {
+        display: flex;
+
+    }
+
+    .container3 {
+        height: 1200px;
+    }
+
+    .btn {
+        width: 100%;
+    }
+
+    #button {
+        margin-top: 0rem;
+    }
+
+    #button2 {
+        margin-top: 0rem;
+    }
+
+    #button3 {
+        margin-top: 0rem;
+    }
+
+}
