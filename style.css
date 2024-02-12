@@ -220,9 +220,6 @@ ul {
     justify-content: center;
 }
 
-.nom:hover {
-    margin-bottom: 60px;
-}
 
 .text-primaire {
     display: flex;
