@@ -218,7 +218,6 @@ ul {
     padding-top: 50px;
     display: flex;
     justify-content: center;
-    transition: ease-in 1s;
 }
 
 .nom:hover {
