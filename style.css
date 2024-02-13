@@ -98,7 +98,7 @@ img {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to right, rgba(245, 245, 245, .8), rgba(245, 245, 245, .8)), url(large.jpg);
+/*     background: linear-gradient(to right, rgba(245, 245, 245, .8), rgba(245, 245, 245, .8)), url(large.jpg); */
 
 
 }
